@@ -2,9 +2,9 @@
 The purpose of this repo is to serve as a curated list of OpenSource resources on Microsoft Azure.
 Feel free to contribute !
 
-### Tech
+### Learning and Readiness
 
-Dillinger uses a number of open source projects to work properly:
+List of usefull links to enable you to learn more about OpenSouce at Azure
 
 * [AngularJS] - HTML enhanced for web apps!
 * [Ace Editor] - awesome web-based text editor
@@ -16,16 +16,12 @@ Dillinger uses a number of open source projects to work properly:
 * [Breakdance](http://breakdance.io) - HTML to Markdown converter
 * [jQuery] - duh
 
-### Plugins
+### DevOps
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+### News
 
-| Plugin | README |
+# Let's keep in touch
+
+| Name | Links |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md] [PlDb] |
-| Github | [plugins/github/README.md] [PlGh] |
-| Google Drive | [plugins/googledrive/README.md] [PlGd] |
-| OneDrive | [plugins/onedrive/README.md] [PlOd] |
-| Medium | [plugins/medium/README.md] [PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md] [PlGa] |
-
+| Ricardo martins | [http://ricardomartins.com.br] [PlDb] |
