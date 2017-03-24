@@ -35,7 +35,7 @@ Links related to DevOps on Azure, best practices and more.
 ### People and Blogs
 * [Jeff Wilcox Website](https://www.jeff.wilcox.name/) - Jeff Wilcox is a Principal Software Engineer at Microsoft building cloud-scale open source solutions.
 
-
+---
 
 # Let's keep in touch
 
