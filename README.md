@@ -18,7 +18,9 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 
 ### DevOps
 
-### News
+[DevOps on Azure PaaS](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.1+2017_T1/about) - DevOps on Azure PaaS
+
+
 
 # Let's keep in touch
 
