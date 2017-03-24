@@ -17,7 +17,6 @@ Articles related to Linux in Azure and cool features
 
 * [IaC on Azure - Linux Virtual Machine Deployment in a breeze with ARM Template](https://blogs.msdn.microsoft.com/azuredev/2017/03/11/iac-on-azure-linux-virtual-machine-deployment-in-a-breeze-with-arm-template/?utm_content=buffer8ae3a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-
 ---
 
 ### DevOps
@@ -27,6 +26,14 @@ Links related to DevOps on Azure, best practices and more.
 * [DevOps at Microsoft](https://www.visualstudio.com/en-us/articles/devopsmsft/overview)
 
 ---
+
+### Containers
+Know more about containers options in Azure
+
+* [Introduction to Docker container hosting solutions with Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/container-service-intro)
+
+---
+
 
 ### Links
 
