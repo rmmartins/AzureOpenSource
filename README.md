@@ -45,6 +45,12 @@ Know more about containers options in Azure
 
 ---
 
+### Videos
+
+* [Open Source at Microsoft](https://channel9.msdn.com/events/THDevDay/Thailand-Developer-Day-16/Open-Source-at-Microsoft)
+
+---
+
 ### People and Blogs
 * [Jeff Wilcox Website](https://www.jeff.wilcox.name/) - Jeff Wilcox is a Principal Software Engineer at Microsoft building cloud-scale open source solutions.
 
