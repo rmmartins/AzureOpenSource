@@ -24,4 +24,4 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 
 | Name | Links |
 | ------ | ------ |
-| Ricardo martins | [http://ricardomartins.com.br] [PlDb] |
+| Ricardo martins | [http://ricardomartins.com.br] [[@ricardommartins](http://twitter.com/ricardommartins)] |
