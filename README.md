@@ -2,6 +2,8 @@
 The purpose of this repo is to serve as a curated list of OpenSource resources on Microsoft Azure.
 Feel free to contribute !
 
+---
+
 ### Learning and Readiness
 List of usefull links to enable you to learn more about OpenSouce at Azure
 
