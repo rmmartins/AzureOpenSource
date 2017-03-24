@@ -1,4 +1,4 @@
-# Azure Opensource Resources
+# Azure OpenSource Resources
 The purpose of this repo is to serve as a curated list of OpenSource resources on Microsoft Azure.
 Feel free to contribute !
 
