@@ -12,6 +12,7 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 * [Continuous Integration and Continuous Deployment](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T1/about)
 * [DevOps Testing](https://openedx.microsoft.com/courses/course-v1:Microsoft+DEVOPS200.5+2017_T1/about)
 
+---
 
 ### DevOps
 Links related to DevOps on Azure, best practices and more.
@@ -19,6 +20,7 @@ Links related to DevOps on Azure, best practices and more.
 * [DevOps from a Microsoft perspective](https://www.visualstudio.com/devops/)
 * [DevOps at Microsoft](https://www.visualstudio.com/en-us/articles/devopsmsft/overview)
 
+---
 
 ### Links
 
@@ -28,12 +30,15 @@ Links related to DevOps on Azure, best practices and more.
 * [Microsoft OpenSource Projects](https://opensource.microsoft.com/)
 * [Bitnami OpenSource apps for Microsoft Azure](https://bitnami.com/azure)
 
+---
 
 ### People and Blogs
 * [Jeff Wilcox Website](https://www.jeff.wilcox.name/) - Jeff Wilcox is a Principal Software Engineer at Microsoft building cloud-scale open source solutions.
+
+
 
 # Let's keep in touch
 
 | Name | Links |
 | ------ | ------ |
-| Ricardo martins | [http://ricardomartins.com.br] [[@ricardommartins](http://twitter.com/ricardommartins)] |
+| Ricardo Martins | [http://ricardomartins.com.br] [[@ricardommartins](http://twitter.com/ricardommartins)] |
