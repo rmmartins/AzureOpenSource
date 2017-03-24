@@ -42,6 +42,7 @@ Know more about containers options in Azure
 * [Microsoft OpenSource at Github](https://azure.github.io/) 
 * [Microsoft OpenSource Projects](https://opensource.microsoft.com/)
 * [Bitnami OpenSource apps for Microsoft Azure](https://bitnami.com/azure)
+* [Redhat on Azure](https://azure.microsoft.com/en-us/campaigns/redhat/)
 
 ---
 
@@ -53,6 +54,7 @@ Know more about containers options in Azure
 
 ### People and Blogs
 * [Jeff Wilcox Website](https://www.jeff.wilcox.name/) - Jeff Wilcox is a Principal Software Engineer at Microsoft building cloud-scale open source solutions.
+* [Brendan Burns](https://twitter.com/brendandburns) - Brendan Burns is Kubernetes co-founder and actually Microsoft employee
 
 ---
 
