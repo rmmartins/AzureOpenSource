@@ -9,6 +9,7 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 * [DevOps on Azure PaaS](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.1+2017_T1/about)
 * [Continuous Integration and Continuous Deployment](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T1/about)
 * [DevOps Testing](https://openedx.microsoft.com/courses/course-v1:Microsoft+DEVOPS200.5+2017_T1/about)
+* [Opensource Labs](https://github.com/Microsoft-OpenSource-Labs)
 
 ---
 
