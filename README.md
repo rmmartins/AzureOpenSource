@@ -25,6 +25,7 @@ Links related to DevOps on Azure, best practices and more.
 
 * [DevOps from a Microsoft perspective](https://www.visualstudio.com/devops/)
 * [DevOps at Microsoft](https://www.visualstudio.com/en-us/articles/devopsmsft/overview)
+* [Azure DevOps Integrations](https://azure.microsoft.com/en-us/try/devops/)
 
 ---
 
