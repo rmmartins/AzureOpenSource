@@ -32,6 +32,7 @@ Links related to DevOps on Azure, best practices and more.
 Know more about containers options in Azure
 
 * [Introduction to Docker container hosting solutions with Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/container-service-intro)
+* [All Things Container](https://blogs.msdn.microsoft.com/allthingscontainer/)
 
 ---
 
