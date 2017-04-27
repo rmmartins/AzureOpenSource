@@ -34,6 +34,7 @@ Know more about containers options in Azure
 
 * [Introduction to Docker container hosting solutions with Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/container-service-intro)
 * [All Things Container](https://blogs.msdn.microsoft.com/allthingscontainer/)
+* [How can I get started with Kubernetes using Azure Container Service?](https://blogs.msdn.microsoft.com/azureedu/2017/04/23/how-can-i-get-started-with-kubernetes-on-azure-container-services/)
 
 ---
 
