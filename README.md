@@ -59,6 +59,7 @@ Know more about containers options in Azure
 ### People and Blogs
 * [Jeff Wilcox Website](https://www.jeff.wilcox.name/) - Jeff Wilcox is a Principal Software Engineer at Microsoft building cloud-scale open source solutions.
 * [Brendan Burns](https://twitter.com/brendandburns) - Brendan Burns is Kubernetes co-founder and actually Microsoft employee
+* [Azure Serverless Blog](http://azureserverless.com/) - A blog with focused in Azure Serverless topics
 
 ---
 
